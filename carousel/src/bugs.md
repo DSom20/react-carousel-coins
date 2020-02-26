@@ -1,0 +1,2 @@
+- both buttons increment, left one doesn't decrement
+- button to get past third throws error: TypeError: Cannot read property 'caption' of undefined
